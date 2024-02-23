@@ -88,7 +88,7 @@ def main():
     glutInitWindowSize (width, height)
     glutInitWindowPosition (300, 200)
     
-    window = glutCreateWindow("CENG487 Multiple Lights with Blinn-Phong Shading")
+    window = glutCreateWindow("Depth Map Shadowing with Spot Lights")
     
     # Initialize the scene and the view
     initScene()

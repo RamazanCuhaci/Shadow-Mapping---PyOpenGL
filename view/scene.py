@@ -48,7 +48,7 @@ class Scene:
             return "OFF"
         
     def isSpotLightShadowOn(self,lightID):
-        if self.spotLights[lightID].shadow: 
+        if self.spotLights[lightID].shadowOn: 
             return "ON" 
         else: 
             return "OFF"
