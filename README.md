@@ -5,7 +5,7 @@ Depth map shadow, spot lights and Blinn-Phong practice
 - On Windows install PyOpenGL and PyOpenGL-accelerate by downlading packages from: http://www.lfd.uci.edu/~gohlke/pythonlibs 
 - Installing them as: pip install [package-name]. This is needed as official pip repo does not have glut in it.
 
-The summary for program below:
+## The summary for program below:
     
 - One on the left side  above object looking down on objects and the other one in front of all the object in slightly higher position looking down on objects.
 - The one at the front of objects move side to side paralle to x axis in a left right sinusoidal pattern.
@@ -16,7 +16,7 @@ The summary for program below:
 - The animation of the spotlights should be able to be switched on or off by the user with key press "a".
 
 
-Key Configuration
+## Key Configuration
 ----------------
 - Hit ESC key to quit.
 - Alt + Left Mouse Button: Rotation around center of the object
