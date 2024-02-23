@@ -15,6 +15,8 @@ Depth map shadow, spot lights and Blinn-Phong practice
 - Another ambient light which has a constant intensity for the whole scene.
 - The animation of the spotlights should be able to be switched on or off by the user with key press "a".
 
+![](Demo.gif)
+
 
 ## Key Configuration
 ----------------
